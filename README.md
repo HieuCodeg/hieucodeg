@@ -2,7 +2,9 @@
 My name is Hieu Nguyen. I am a Fresher Java web FullStack. I am interested in the following topics: Deep Learning in programming languages.<br>
 ## 📫 How to reach me: 
 
-[ [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hieucodeg/) [![Gitlab]([![My Skills](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)) Gitlab](https://gitlab.com/users/s2minhhieu/contributed)
+
+[![Gitlab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/users/s2minhhieu)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/hieucodeg)
 
 
 
