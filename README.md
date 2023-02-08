@@ -13,7 +13,7 @@ My name is Hieu Nguyen. I am a Fresher Java web FullStack. I am interested in th
 <a href="https://github.com/hieucodeg/coffee-store/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieucodeg&repo=coffee-store&theme=radical" />
 </a>    
-<a href="https://github.com/hieucodeg/ASCII-generator/">
+<a href="https://github.com/hieucodeg/HT-Shop/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieucodeg&repo=HT-Shop&theme=merko" />
 </a>
 
@@ -24,6 +24,9 @@ My name is Hieu Nguyen. I am a Fresher Java web FullStack. I am interested in th
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieucodeg&repo=game_Snake&theme=dark" />
 </a>
 
+<a href="https://github.com/hieucodeg/karaoke/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieucodeg&repo=karaoke&theme=radical" />
+</a>    
 <a href="https://github.com/hieucodeg/Module-5/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieucodeg&repo=Module-5&theme=onedark" />
 </a>    
@@ -40,9 +43,6 @@ My name is Hieu Nguyen. I am a Fresher Java web FullStack. I am interested in th
 
 <a href="https://github.com/hieucodeg/Module-1/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieucodeg&repo=Module-1&theme=dracula" />
-</a>    
-<a href="https://github.com/hieucodeg/karaoke/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieucodeg&repo=karaoke&theme=radical" />
 </a>    
 
 <!-- theme: radical merko gruvbox dark onedark cobalt synthwave highcontrast dracula -->
