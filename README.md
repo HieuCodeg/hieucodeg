@@ -8,7 +8,7 @@ My name is Hieu Nguyen. I am a Fresher Java web FullStack. I am interested in th
 
 
 
-![Hieu's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hieucodeg&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Hieu's github stars](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hieucodeg&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/hieucodeg/coffee-store/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieucodeg&repo=coffee-store&theme=radical" />
