@@ -1,12 +1,11 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Hieu Nguyen. I am a Fresher Java web FullStack. I am interested in the following topics: Deep Learning in programming languages.<br>
-## 📫 How to reach me: 
 
+My name is Hieu Nguyen. I am a FullStack Web Developer.<br>
+
+## 📫 How to reach me:
 
 [![Gitlab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/users/s2minhhieu)
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/hieucodeg)
-
-
 
 ![Hieu's github stars](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hieucodeg&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
@@ -46,5 +45,4 @@ My name is Hieu Nguyen. I am a Fresher Java web FullStack. I am interested in th
 
 <a href="https://github.com/hieucodeg/Module-1/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieucodeg&repo=Module-1&theme=dracula" />
-</a>    
-
+</a>
